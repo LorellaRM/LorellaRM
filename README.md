@@ -1,4 +1,5 @@
-### Hi there 👋
+<Time to Code/> Programming is magic, it's creating everything from nothing...
+
 
 <!--
 **LorellaRM/LorellaRM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
